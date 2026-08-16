@@ -37,7 +37,7 @@ I hold an M.Sc. in Mechanical Engineering from the Iran University of Science an
 
 ## Selected publications
 
-1. **R. Badiei**, M. B. Sajjadi, M. Ayati, M. Mohammadi, and H. Mohammadi, “Obstacle avoidance-based fault-tolerant adaptive terminal sliding mode control for safe navigation of an autonomous quadrotor,” *Robotics and Autonomous Systems*, 2026. [DOI](https://doi.org/10.1016/j.robot.2026.105631)
+1. **R. Badiei**, M. B. Sajjadi, M. Ayati, M. Mohammadi, and H. Mohammadi, “Obstacle avoidance-based fault-tolerant adaptive terminal sliding mode control for safe navigation of an autonomous quadrotor,” *Robotics and Autonomous Systems*, 2026. [DOI](https://doi.org/10.1016/j.robot.2026.105631) [C++ code] (https://github.com/rooz1300/fanftsmc-cbf-quadrotor)
 2. A. Alavi-Nasab, **R. Badiei** (equal first author), and M. H. Asemani, “Safe prescribed time controller for wheeled mobile robots by using control barrier functions as a safety filter,” *ISA Transactions*, 2025. [DOI](https://doi.org/10.1016/j.isatra.2025.04.024) · [Code](https://github.com/rooz1300/Safe-Prescribed-Time-Controller-for-Wheeled-Mobile-Robots-using-Control-Barrier-Functions)
 3. **R. Badiei**, M. B. Sajjadi, M. Ayati, and A. H. Davaie-Markazi, “Back-stepping Prescribed-Time Sliding Mode Control of a Quadrotor UAV,” *12th RSI International Conference on Robotics and Mechatronics (ICRoM)*, 2024. [IEEE Xplore](https://ieeexplore.ieee.org/document/10903605) · [Code](https://github.com/rooz1300/Back-stepping-Prescribed-Time-Sliding-Mode-Control-of-a-Quadrotor-UAV)
 
