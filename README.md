@@ -28,14 +28,14 @@ I hold an M.Sc. in Mechanical Engineering from the Iran University of Science an
 
 | Project | What I worked on | Resources |
 | --- | --- | --- |
-| **Fault-tolerant quadrotor navigation** | Adaptive terminal sliding-mode control, nonlinear observation, and Control Barrier Functions for trajectory tracking and guaranteed obstacle avoidance under structural faults. | [Publication](https://doi.org/10.1016/j.robot.2026.105631) |
+| **Fault-tolerant quadrotor navigation** | Adaptive terminal sliding-mode control, nonlinear observation, and Control Barrier Functions for trajectory tracking and guaranteed obstacle avoidance under structural faults. | [Publication](https://doi.org/10.1016/j.robot.2026.105631) [C++ code](https://github.com/rooz1300/fanftsmc-cbf-quadrotor) |
 | **Safe prescribed-time mobile-robot control** | A prescribed-time controller with a CBF safety filter for smooth trajectory tracking and collision avoidance. | [Code](https://github.com/rooz1300/Safe-Prescribed-Time-Controller-for-Wheeled-Mobile-Robots-using-Control-Barrier-Functions) · [Publication](https://doi.org/10.1016/j.isatra.2025.04.024) |
 | **Back-stepping prescribed-time quadrotor control** | A hybrid back-stepping and sliding-mode controller for user-defined-time trajectory tracking with reduced overshoot. | [Code](https://github.com/rooz1300/Back-stepping-Prescribed-Time-Sliding-Mode-Control-of-a-Quadrotor-UAV) · [IEEE Xplore](https://ieeexplore.ieee.org/document/10903605) |
 | **COVID-19 fatality prediction in Iran** | Logistic regression, LSTM, ARIMA, and epidemiological models for improved temporal forecasting. | [Project report](https://github.com/rooz1300/An-intelligent-method-for-prediction-of-COVID-19-fatalities-in-Iran/blob/main/An_intelligent_method_for_prediction_of_COVID_19_in_IRAN.pdf) |
 | **Optimal adaptive neuro-fuzzy control** | A Genetic Algorithm-optimized ANFIS controller for vaccination, social-distancing, and treatment strategies. | [Project report](https://github.com/rooz1300/Optimal-Adaptive-Neuro-Fuzzy-Control-of-COVID-19/blob/main/Main_Article.pdf) |
 | **Machine learning portfolio** | Implementations spanning classification, computer vision, sequence models, generative models, and policy/value-based reinforcement learning. | [Deep learning](https://github.com/rooz1300/my-deep-learning-exercises-) · [Reinforcement learning](https://github.com/rooz1300/reinforcement_learning-_exercise-) |
 
-## Selected publications
+## Publications
 
 1. **R. Badiei**, M. B. Sajjadi, M. Ayati, M. Mohammadi, and H. Mohammadi, “Obstacle avoidance-based fault-tolerant adaptive terminal sliding mode control for safe navigation of an autonomous quadrotor,” *Robotics and Autonomous Systems*, 2026. [DOI](https://doi.org/10.1016/j.robot.2026.105631) [C++ code](https://github.com/rooz1300/fanftsmc-cbf-quadrotor)
 2. A. Alavi-Nasab, **R. Badiei** (equal first author), and M. H. Asemani, “Safe prescribed time controller for wheeled mobile robots by using control barrier functions as a safety filter,” *ISA Transactions*, 2025. [DOI](https://doi.org/10.1016/j.isatra.2025.04.024) · [Code](https://github.com/rooz1300/Safe-Prescribed-Time-Controller-for-Wheeled-Mobile-Robots-using-Control-Barrier-Functions)
